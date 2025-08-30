@@ -3,7 +3,7 @@
   "Speedrun",
   "Haircut",
   "autopilot",
-  "Chanel beads",
+  "Chanel Beads",
   "Where Are You",
   "Mrs Bean",
   "Voice Close To Me",
